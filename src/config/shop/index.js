@@ -127,10 +127,10 @@ export {
 };
 
 
+client.login(...)
 
 
-
-
+require('./src/voiceTracker')(client);
 
 
 
