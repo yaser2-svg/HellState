@@ -193,8 +193,6 @@ export function getItemsInCategory(categoryId) {
     );
 }
 
-require('./src/voiceTracker')(client);
-client.login(...)
 
 
 
