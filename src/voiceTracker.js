@@ -8,7 +8,7 @@ module.exports = (client) => {
 
         const allowedChannels = [
             'حط_ايدي_الروم'
-        ];
+        ];1061717272072310878
 
         const userId = newState.id;
 
